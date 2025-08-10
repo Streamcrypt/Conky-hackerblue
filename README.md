@@ -13,7 +13,7 @@ This project contains my personal Conky configuration files. Conky is a simple p
 
 # Screenshot of My Desktop
 
-![My hacker-bluestyle desktop wallpaper](Screenshot_of_my_desktop.png)
+![My hacker-bluestyle desktop wallpaper](https://raw.githubusercontent.com/Streamcrypt/Conky-hackerblue/main/Screenshot_of_my_desktop.png)
 
 # Installation of Conky
 
