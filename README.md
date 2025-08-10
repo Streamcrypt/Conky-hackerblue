@@ -1,4 +1,3 @@
-````markdown
 # Conky-hackerblue style
 
 This project contains my personal Conky configuration files. Conky is a simple program that shows system information like battery, clock, and network right on your desktop.
@@ -18,6 +17,7 @@ This project contains my personal Conky configuration files. Conky is a simple p
 
 # Installation of Conky
 
+````markdown
 ```bash
 sudo apt update        # or update according to your Linux distro
 sudo apt install conky # or install using your distro's package manager
