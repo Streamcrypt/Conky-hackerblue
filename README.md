@@ -74,8 +74,9 @@ You can also reach out on Telegram: [https://t.me/+YS46SgrR7Og4OTFk](https://t.m
 # Donation
 
 If you appreciate my work, you can donate to:
+````markdown
 `0x85f3E6751dA5553f1122c175739dD2252CFe1898`
-
+````
 
 If you like this project, please:
 
@@ -96,5 +97,3 @@ Thank you for your support! 🙌
 Feel free to reach out anytime!
 Thank you!
 
-```
-```
