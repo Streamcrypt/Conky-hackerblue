@@ -8,7 +8,7 @@ This project contains my personal Conky configuration files. Conky is a simple p
 - Temperature tab  
 - Top process tab  
 - Time display  
-- Battery status  
+- Dynamic Battery status  
 - System info  
 
 # Screenshot of My Desktop
