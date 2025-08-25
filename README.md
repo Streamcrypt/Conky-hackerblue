@@ -69,11 +69,3 @@ If you want Conky to start automatically every time you boot:
 
 * This setup is optimised for **1920 × 1080** resolution.
 * Some widgets or positions may not work perfectly on other resolutions. If you find anything not working, please open an issue or post in the **Discussion** tab.
-
-
-
-Feel free to reach out anytime!
-Thank you!
-
-```
-```
