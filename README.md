@@ -1,4 +1,4 @@
-# Conky-hackerblue style
+# Conky-hackerblue style - Powered by CHATGPT
 
 This project contains my personal Conky configuration files. Conky is a simple program that shows system information like battery, clock, and network right on your desktop.
 
