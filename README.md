@@ -28,25 +28,35 @@ sudo apt install conky # or install using your distro's package manager
 
 # Procedures to Setup
 
-1. Clone the repository to your machine:
+1. Move to your home directory:
+
+   ```bash
+   cd ~/
+   ```
+
+2. Clone the repository to your machine:
 
    ```bash
    git clone https://github.com/Streamcrypt/Conky-hackerblue.git
    ```
-2. Change into the project directory:
+
+3. Change into the project directory:
 
    ```bash
    cd Conky-hackerblue
    ```
-3. If you don't have Conky installed, install it (see Installation section above).
-4. Start Conky with the included script:
+
+4. If you don't have Conky installed, install it (see Installation section above).
+
+5. Start Conky with the included script:
 
    ```bash
    bash start_conky.sh
    ```
-5. Check your desktop. If Conky does not appear correctly:
 
-   * Open your file manager, find `wallpaper.png` in the project folder,
+6. Check your desktop. 
+
+7. * Open your file manager, find `wallpaper.png` in the project folder,
    * Right-click it and set it as your desktop wallpaper.
 
 Now your desktop should match the setup shown in this project.
