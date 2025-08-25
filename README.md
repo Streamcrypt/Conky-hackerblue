@@ -2,8 +2,9 @@
 
 This project contains my personal Conky configuration files. Conky is a simple program that shows system information like battery, clock, and network right on your desktop.
 
-If you experience any issues with the widget (for example, if it doesn’t display correctly or something feels off), feel free to:
-Send me a DM on Twitter: @Bello_Mubarak1
+If you experience any issues with the widget (for example, if it doesn’t display correctly or something feels off), feel free to
+
+Send me a DM on Twitter @Bello_Mubarak1
 
 # List of All Available Conky Styles and Features
 
