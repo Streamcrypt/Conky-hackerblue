@@ -1,7 +1,9 @@
-````markdown
 # Conky-hackerblue style
 
 This project contains my personal Conky configuration files. Conky is a simple program that shows system information like battery, clock, and network right on your desktop.
+
+If you experience any issues with the widget (for example, if it doesn’t display correctly or something feels off), feel free to:
+Send me a DM on Twitter: @Bello_Mubarak1
 
 # List of All Available Conky Styles and Features
 
@@ -67,32 +69,7 @@ If you want Conky to start automatically every time you boot:
 * This setup is optimised for **1920 × 1080** resolution.
 * Some widgets or positions may not work perfectly on other resolutions. If you find anything not working, please open an issue or post in the **Discussion** tab.
 
-# Notice
 
-If your desktop is not displayed properly or you notice anything unsatisfactory, please report it in the **Discussion** tab of this repository.
-You can also reach out on Telegram: [https://t.me/+YS46SgrR7Og4OTFk](https://t.me/+YS46SgrR7Og4OTFk)
-
-# Donation
-
-If you appreciate my work, you can donate to:
-`0x85f3E6751dA5553f1122c175739dD2252CFe1898`
----
-
-If you like this project, please:
-
-- **⭐ Star** this repository  
-- **🍴 Fork** it to experiment  
-- **🐛 Report issues** or suggest features  
-- **📢 Share** it with your friends and community  
-- **💬 Follow me** for updates and new projects  
-
-Thank you for your support! 🙌
-
----
-
-**Connect with me:**  
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/+YS46SgrR7Og4OTFk)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Streamcrypt)  
 
 Feel free to reach out anytime!
 Thank you!
